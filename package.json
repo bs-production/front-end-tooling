@@ -1,0 +1,29 @@
+{
+  "name": "gulp-clean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp-uglify": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp-concat-util": "^0.5.5",
+    "gulp-uglify": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bs-production/front-end-build.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bs-production/front-end-build/issues"
+  },
+  "homepage": "https://github.com/bs-production/front-end-build#readme"
+}
